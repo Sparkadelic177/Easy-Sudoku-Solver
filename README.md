@@ -1,5 +1,5 @@
 # Easy-Sudoku-Solver
-The program solves the easiest sudoku puzzles. 
+**This program solves the easiest sudoku puzzles.** 
 
 - In the main java file, there is a place to type in a local file path (CSV files) that have sudoku cell values. 
 - The program will then find all the empty cells and and checks all rows, columns, and box for the possible values that belong in the empty cells
