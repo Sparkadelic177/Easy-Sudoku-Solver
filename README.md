@@ -6,4 +6,4 @@ The program solves the easiest sudoku puzzles.
 - The program will find cells where it has only one possible candidate and place it in that grid space
 - The program will first check if that number is valid and if it passes all the test, the value is placed.
 - Once the candidate has been place, it will update the board and deleted any same value candidate in the same row column and box.
-- The porgram will complete once all the values have been placed on to the board.
+- The program will complete once all the values have been placed on to the board.
